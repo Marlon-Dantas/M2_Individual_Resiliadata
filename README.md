@@ -50,7 +50,9 @@
 **Relacionamento Um-Para-Muitos**: Uma **Empresa Parceira** pode ter vários **Colaboradores**, mas um **Colaborador** está vinculado a apenas uma **Empresa Parceira**.
  #### IMAGEM ILUSTRATIVA:
 
- ![image](https://github.com/Marlon-Dantas/meu-teste-git/assets/92075470/efa1051a-7301-4ff5-89cd-3a0774748a0d)
+ 
+![relações_banco](https://github.com/Marlon-Dantas/M2_Individual_Resiliadata/assets/92075470/d0163db2-36ed-4e24-a16f-c40f89ea7b21)
+
 
 ------------------------------
 
